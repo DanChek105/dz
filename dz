@@ -1,4 +1,4 @@
-1
+//1
 #include <iostream>
 using namespace std;
 
@@ -8,7 +8,7 @@ int main(int argc, char* argv[])
     cout << 1 + rand() % 6 + 1 << endl;
     //system ("pause");
 }
-2
+//2
 #include <iostream>
 
 using namespace std;
@@ -35,7 +35,7 @@ int main()
     cout<<a2;
     }
 }
-3
+//3
 #include <iostream>
 using namespace std;
 
